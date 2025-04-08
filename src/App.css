@@ -1,0 +1,21 @@
+
+
+#hero {
+  background: url(../src/assets/images/welcome-hero/banner.jpg) no-repeat center center/cover;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+}  
+#stats {
+  background: url(../src/assets/images/counter/counter-banner.jpg) no-repeat center center/cover;
+  background-attachment: fixed;
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+}  
