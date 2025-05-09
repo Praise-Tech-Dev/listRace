@@ -2,13 +2,13 @@ import { Features } from "tailwindcss";
 
 const ListData = [
     {
-      imageUrl: '../../public/explore/e1.jpg', 
+      imageUrl: './explore/e1.jpg', 
       name: 'tommy helfinger bar', 
       rating: 10,
       price: '5$ - 300$',
       type: 'Restaurent',
       description: 'Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt ut laboremagna aliqua.',
-      person: '../../public/explore/person.png',
+      person: './explore/person.png',
       rate: 5.0,
       active: false,
       tag: 'Best Rated'

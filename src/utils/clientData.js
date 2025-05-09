@@ -29,7 +29,7 @@ const ClientData = [
         Country: 'London, Uk',
         rate: ' pi pi-star-fill',
         description: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis eaque.',
-        person: '../src/assets/images/explore/person.png',
+        person: '.../../public/explore/person.png',
     },
     {
         imageUrl: '../../public/clients/c2.png', 

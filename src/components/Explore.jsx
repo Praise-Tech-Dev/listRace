@@ -20,7 +20,7 @@ export default function Explore() {
       {
           ListData.map((data, index) => {
             return (
-              <div className='group shadow-xl   capitalize bg-white rounded-[3px] hover:shadow-2xl '>
+              <div className='group shadow-xl   capitalize bg-white rounded-[3px] hover:shadow-2xl ' key={index}>
                 <div className='relative'>
                   <img src={data.imageUrl} className="w-[100%]"/>
                   <div className='absolute duration-1000 ease-out group-hover:flex items-center justify-between px-3 py-2 hidden w-full bottom-0 text-white'>
