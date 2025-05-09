@@ -13,7 +13,7 @@ export default function NewsAndArticles() {
         <div className='flex justify-center mt-[40px] pb-[50px]  gap-7'>
                 <div className='shadow-xl  w-[30%] text-center capitalize bg-white rounded-[3px] hover:shadow-2xl group'>
                     <div>
-                        <img src= "../../public/assets/images/blog/b1.jpg" className='' />
+                        <img src= "../../public/blog/b1.jpg" className='' />
                     </div>
                     <div className='text-[#343a3f] text-[16px] font-medium p-[25px]'>
                         <a><p className=' group-hover:text-[#ff545a]'>How to find your Desired Place more quickly</p></a>
@@ -24,7 +24,7 @@ export default function NewsAndArticles() {
 
                 <div className='group shadow-xl  w-[30%] text-center capitalize bg-white rounded-[3px] hover:shadow-2xl '>
                     <div>
-                        <img src= "../../public/assets/images/blog/b2.jpg" className='' />
+                        <img src= "../../public/blog/b2.jpg" className='' />
                     </div>
                     <div className='text-[#343a3f] text-[16px] font-medium p-[25px]'>
                         <a><p className=' group-hover:text-[#ff545a]'>How to find your Desired Place more quickly</p></a>
@@ -35,7 +35,7 @@ export default function NewsAndArticles() {
 
                 <div className='group shadow-xl  w-[30%] text-center capitalize bg-white rounded-[3px] hover:shadow-2xl '>
                     <div>
-                        <img src= "../../public/assets/images/blog/b3.jpg" className='' />
+                        <img src= "../../public/blog/b3.jpg" className='' />
                     </div>
                     <div className='text-[#343a3f] text-[16px] font-medium p-[25px]'>
                         <a><p className=' group-hover:text-[#ff545a]'>How to find your Desired Place more quickly</p></a>
