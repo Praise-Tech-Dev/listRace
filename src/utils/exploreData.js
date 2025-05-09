@@ -2,7 +2,7 @@ import { Features } from "tailwindcss";
 
 const ListData = [
     {
-      imageUrl: '../src/assets/images/explore/e1.jpg', 
+      imageUrl: '../../public/assets/images/explore/e1.jpg', 
       name: 'tommy helfinger bar', 
       rating: 10,
       price: '5$ - 300$',
@@ -14,7 +14,7 @@ const ListData = [
       tag: 'Best Rated'
     },
     {
-      imageUrl: '../src/assets/images/explore/e2.jpg',
+      imageUrl: '../../public/assets/images/explore/e2.jpg',
       name: 'swim and dine resort', 
       rate: 4.5,
       rating: 8,
@@ -26,19 +26,19 @@ const ListData = [
       tag: 'Featured'
     },
     {
-      imageUrl: '../src/assets/images/explore/e3.jpg', 
+      imageUrl: '../../public/assets/images/explore/e3.jpg', 
       name: 'Europe Tour',
       rate: 5.0,
       rating: 15,
       price: '5k$ - 10k$',
       type: 'Destination',
       description: 'Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod tempor incididunt ut laboremagna aliqua.',
-      person: '../src/assets/images/explore/person.png',
+      person: '../../public/assets/images/explore/person.png',
       active: false,
       tag: 'Best Rated'
     },
     {
-        imageUrl: '../src/assets/images/explore/e4.jpg', 
+        imageUrl: '../../public/assets/images/explore/e4.jpg', 
         name: 'banglow with swiming pool',
         rate: 5.0,
         rating: 10,
@@ -50,7 +50,7 @@ const ListData = [
         tag: 'Most View'
       },
       {
-        imageUrl: '../src/assets/images/explore/e5.jpg',
+        imageUrl: '../../public/assets/images/explore/e5.jpg',
         name: 'Vintage Car Expo',
         rate: 4.2,
         rating: 8,
@@ -62,7 +62,7 @@ const ListData = [
         tag: 'Featured'
         },
       {
-        imageUrl: '../src/assets/images/explore/e6.jpg', 
+        imageUrl: '../../public/assets/images/explore/e6.jpg', 
         name: 'Thailand Tour',
         rate: 5.0,
         rating: 15,

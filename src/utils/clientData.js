@@ -1,6 +1,6 @@
 const ClientData = [
     {
-      imageUrl: '../src/assets/images/clients/c1.png', 
+      imageUrl: '../../public/assets/images/clients/c1.png', 
       name: 'tom Leaker', 
       Country: 'London, Uk',
       rate: 'pi pi-star-fill',
@@ -8,7 +8,7 @@ const ClientData = [
       person: '../src/assets/images/explore/person.png',
     },
     {
-        imageUrl: '../src/assets/images/clients/c2.png', 
+        imageUrl: '../../public/assets/images/clients/c2.png', 
         name: 'Monirul Islam', 
         Country: 'London, Uk',
         rate: 'pi pi-star-fill ',
@@ -16,7 +16,7 @@ const ClientData = [
         person: '../src/assets/images/explore/person.png',
     },
     {
-        imageUrl: '../src/assets/images/clients/c3.png', 
+        imageUrl: '../../public/assets/images/clients/c3.png', 
         name: 'Shohrab Hossain', 
         Country: 'London, Uk',
         rate: 'pi pi-star-fill ',
@@ -24,7 +24,7 @@ const ClientData = [
         person: '../src/assets/images/explore/person.png',
     },
     {
-        imageUrl: '../src/assets/images/clients/c1.png', 
+        imageUrl: '../../public/assets/images/clients/c1.png', 
         name: 'tom Leaker', 
         Country: 'London, Uk',
         rate: ' pi pi-star-fill',
@@ -32,7 +32,7 @@ const ClientData = [
         person: '../src/assets/images/explore/person.png',
     },
     {
-        imageUrl: '../src/assets/images/clients/c2.png', 
+        imageUrl: '../../public/assets/images/clients/c2.png', 
         name: 'Monirul Islam', 
         Country: 'London, Uk',
         rate: ' pi pi-star-fill',
